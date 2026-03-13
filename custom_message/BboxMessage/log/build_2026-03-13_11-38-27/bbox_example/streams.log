@@ -1,0 +1,41 @@
+[0.430s] Invoking command in '/home/misys/robotics_lecture/BboxMessage/src/bbox_example': LD_LIBRARY_PATH=/home/misys/robotics_lecture/BboxMessage/install/my_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/misys/robotics_lecture/BboxMessage/build/bbox_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bbox_example build --build-base /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build install --record /home/misys/robotics_lecture/BboxMessage/build/bbox_example/install.log --single-version-externally-managed install_data
+[0.571s] running egg_info
+[0.571s] creating ../../build/bbox_example/bbox_example.egg-info
+[0.571s] writing ../../build/bbox_example/bbox_example.egg-info/PKG-INFO
+[0.571s] writing dependency_links to ../../build/bbox_example/bbox_example.egg-info/dependency_links.txt
+[0.571s] writing entry points to ../../build/bbox_example/bbox_example.egg-info/entry_points.txt
+[0.571s] writing requirements to ../../build/bbox_example/bbox_example.egg-info/requires.txt
+[0.571s] writing top-level names to ../../build/bbox_example/bbox_example.egg-info/top_level.txt
+[0.571s] writing manifest file '../../build/bbox_example/bbox_example.egg-info/SOURCES.txt'
+[0.572s] reading manifest file '../../build/bbox_example/bbox_example.egg-info/SOURCES.txt'
+[0.573s] writing manifest file '../../build/bbox_example/bbox_example.egg-info/SOURCES.txt'
+[0.573s] running build
+[0.573s] running build_py
+[0.573s] creating /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build
+[0.573s] creating /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib
+[0.573s] creating /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib/bbox_example
+[0.573s] copying bbox_example/bbox_pub.py -> /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib/bbox_example
+[0.573s] copying bbox_example/bbox_sub.py -> /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib/bbox_example
+[0.573s] copying bbox_example/__init__.py -> /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib/bbox_example
+[0.573s] running install
+[0.573s] running install_lib
+[0.574s] creating /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example
+[0.574s] copying /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib/bbox_example/bbox_pub.py -> /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example
+[0.574s] copying /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib/bbox_example/bbox_sub.py -> /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example
+[0.574s] copying /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib/bbox_example/__init__.py -> /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example
+[0.574s] byte-compiling /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example/bbox_pub.py to bbox_pub.cpython-310.pyc
+[0.574s] byte-compiling /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example/bbox_sub.py to bbox_sub.cpython-310.pyc
+[0.574s] byte-compiling /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example/__init__.py to __init__.cpython-310.pyc
+[0.574s] running install_data
+[0.575s] creating /home/misys/robotics_lecture/BboxMessage/install/bbox_example/share/ament_index
+[0.575s] creating /home/misys/robotics_lecture/BboxMessage/install/bbox_example/share/ament_index/resource_index
+[0.575s] creating /home/misys/robotics_lecture/BboxMessage/install/bbox_example/share/ament_index/resource_index/packages
+[0.575s] copying resource/bbox_example -> /home/misys/robotics_lecture/BboxMessage/install/bbox_example/share/ament_index/resource_index/packages
+[0.575s] copying package.xml -> /home/misys/robotics_lecture/BboxMessage/install/bbox_example/share/bbox_example
+[0.575s] running install_egg_info
+[0.576s] Copying ../../build/bbox_example/bbox_example.egg-info to /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example-0.0.0-py3.10.egg-info
+[0.576s] running install_scripts
+[0.589s] Installing bbox_pub script to /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/bbox_example
+[0.589s] Installing bbox_sub script to /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/bbox_example
+[0.589s] writing list of installed files to '/home/misys/robotics_lecture/BboxMessage/build/bbox_example/install.log'
+[0.603s] Invoked command in '/home/misys/robotics_lecture/BboxMessage/src/bbox_example' returned '0': LD_LIBRARY_PATH=/home/misys/robotics_lecture/BboxMessage/install/my_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/misys/robotics_lecture/BboxMessage/build/bbox_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bbox_example build --build-base /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build install --record /home/misys/robotics_lecture/BboxMessage/build/bbox_example/install.log --single-version-externally-managed install_data

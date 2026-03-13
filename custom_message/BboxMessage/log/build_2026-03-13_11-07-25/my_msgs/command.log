@@ -1,0 +1,6 @@
+Invoking command in '/home/misys/robotics_lecture/BboxMessage/build/my_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/misys/robotics_lecture/BboxMessage/src/my_msgs -DCMAKE_INSTALL_PREFIX=/home/misys/robotics_lecture/BboxMessage/install/my_msgs
+Invoked command in '/home/misys/robotics_lecture/BboxMessage/build/my_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/misys/robotics_lecture/BboxMessage/src/my_msgs -DCMAKE_INSTALL_PREFIX=/home/misys/robotics_lecture/BboxMessage/install/my_msgs
+Invoking command in '/home/misys/robotics_lecture/BboxMessage/build/my_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/misys/robotics_lecture/BboxMessage/build/my_msgs -- -j32 -l32
+Invoked command in '/home/misys/robotics_lecture/BboxMessage/build/my_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/misys/robotics_lecture/BboxMessage/build/my_msgs -- -j32 -l32
+Invoking command in '/home/misys/robotics_lecture/BboxMessage/build/my_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/misys/robotics_lecture/BboxMessage/build/my_msgs
+Invoked command in '/home/misys/robotics_lecture/BboxMessage/build/my_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/misys/robotics_lecture/BboxMessage/build/my_msgs

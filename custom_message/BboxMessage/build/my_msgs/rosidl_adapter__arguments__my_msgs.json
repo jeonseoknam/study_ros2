@@ -1,0 +1,6 @@
+{
+  "package_name": "my_msgs",
+  "non_idl_tuples": [
+    "/home/misys/robotics_lecture/BboxMessage/src/my_msgs:msg/BboxMsg.msg"
+  ]
+}

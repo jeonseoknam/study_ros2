@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/bbox_example/bbox_example.egg-info/PKG-INFO
+writing dependency_links to ../../build/bbox_example/bbox_example.egg-info/dependency_links.txt
+writing entry points to ../../build/bbox_example/bbox_example.egg-info/entry_points.txt
+writing requirements to ../../build/bbox_example/bbox_example.egg-info/requires.txt
+writing top-level names to ../../build/bbox_example/bbox_example.egg-info/top_level.txt
+reading manifest file '../../build/bbox_example/bbox_example.egg-info/SOURCES.txt'
+writing manifest file '../../build/bbox_example/bbox_example.egg-info/SOURCES.txt'
+running build
+running build_py
+copying bbox_example/bbox_pub.py -> /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib/bbox_example
+running install
+running install_lib
+copying /home/misys/robotics_lecture/BboxMessage/build/bbox_example/build/lib/bbox_example/bbox_pub.py -> /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example
+byte-compiling /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example/bbox_pub.py to bbox_pub.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/bbox_example/bbox_example.egg-info to /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/python3.10/site-packages/bbox_example-0.0.0-py3.10.egg-info
+running install_scripts
+Installing bbox_pub script to /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/bbox_example
+Installing bbox_sub script to /home/misys/robotics_lecture/BboxMessage/install/bbox_example/lib/bbox_example
+writing list of installed files to '/home/misys/robotics_lecture/BboxMessage/build/bbox_example/install.log'
