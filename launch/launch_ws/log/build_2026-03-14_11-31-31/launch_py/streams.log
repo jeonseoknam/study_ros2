@@ -1,0 +1,20 @@
+[0.555s] Invoking command in '/home/misys/robotics_lecture/launch/launch_ws/src/launch_py': PYTHONPATH=/home/misys/robotics_lecture/launch/launch_ws/build/launch_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/robotics_lecture/launch/launch_ws/install/launch_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/launch_py build --build-base /home/misys/robotics_lecture/launch/launch_ws/build/launch_py/build install --record /home/misys/robotics_lecture/launch/launch_ws/build/launch_py/install.log --single-version-externally-managed install_data
+[0.699s] running egg_info
+[0.699s] writing ../../build/launch_py/launch_py.egg-info/PKG-INFO
+[0.699s] writing dependency_links to ../../build/launch_py/launch_py.egg-info/dependency_links.txt
+[0.699s] writing entry points to ../../build/launch_py/launch_py.egg-info/entry_points.txt
+[0.699s] writing requirements to ../../build/launch_py/launch_py.egg-info/requires.txt
+[0.700s] writing top-level names to ../../build/launch_py/launch_py.egg-info/top_level.txt
+[0.701s] reading manifest file '../../build/launch_py/launch_py.egg-info/SOURCES.txt'
+[0.701s] writing manifest file '../../build/launch_py/launch_py.egg-info/SOURCES.txt'
+[0.701s] running build
+[0.701s] running build_py
+[0.701s] running install
+[0.702s] running install_lib
+[0.702s] running install_data
+[0.702s] running install_egg_info
+[0.703s] removing '/home/misys/robotics_lecture/launch/launch_ws/install/launch_py/lib/python3.10/site-packages/launch_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.703s] Copying ../../build/launch_py/launch_py.egg-info to /home/misys/robotics_lecture/launch/launch_ws/install/launch_py/lib/python3.10/site-packages/launch_py-0.0.0-py3.10.egg-info
+[0.704s] running install_scripts
+[0.716s] writing list of installed files to '/home/misys/robotics_lecture/launch/launch_ws/build/launch_py/install.log'
+[0.731s] Invoked command in '/home/misys/robotics_lecture/launch/launch_ws/src/launch_py' returned '0': PYTHONPATH=/home/misys/robotics_lecture/launch/launch_ws/build/launch_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/robotics_lecture/launch/launch_ws/install/launch_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/launch_py build --build-base /home/misys/robotics_lecture/launch/launch_ws/build/launch_py/build install --record /home/misys/robotics_lecture/launch/launch_ws/build/launch_py/install.log --single-version-externally-managed install_data

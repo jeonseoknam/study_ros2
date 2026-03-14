@@ -1,0 +1,36 @@
+[0.577s] Invoking command in '/home/misys/robotics_lecture/launch/launch_ws/src/substitutions_py': PYTHONPATH=/home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/substitutions_py build --build-base /home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/build install --record /home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/install.log --single-version-externally-managed install_data
+[0.737s] running egg_info
+[0.737s] creating ../../build/substitutions_py/substitutions_py.egg-info
+[0.738s] writing ../../build/substitutions_py/substitutions_py.egg-info/PKG-INFO
+[0.738s] writing dependency_links to ../../build/substitutions_py/substitutions_py.egg-info/dependency_links.txt
+[0.738s] writing entry points to ../../build/substitutions_py/substitutions_py.egg-info/entry_points.txt
+[0.738s] writing requirements to ../../build/substitutions_py/substitutions_py.egg-info/requires.txt
+[0.738s] writing top-level names to ../../build/substitutions_py/substitutions_py.egg-info/top_level.txt
+[0.738s] writing manifest file '../../build/substitutions_py/substitutions_py.egg-info/SOURCES.txt'
+[0.739s] reading manifest file '../../build/substitutions_py/substitutions_py.egg-info/SOURCES.txt'
+[0.740s] writing manifest file '../../build/substitutions_py/substitutions_py.egg-info/SOURCES.txt'
+[0.740s] running build
+[0.740s] running build_py
+[0.740s] creating /home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/build
+[0.740s] creating /home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/build/lib
+[0.740s] creating /home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/build/lib/substitutions_py
+[0.740s] copying substitutions_py/__init__.py -> /home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/build/lib/substitutions_py
+[0.740s] running install
+[0.740s] running install_lib
+[0.741s] creating /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/lib/python3.10/site-packages/substitutions_py
+[0.741s] copying /home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/build/lib/substitutions_py/__init__.py -> /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/lib/python3.10/site-packages/substitutions_py
+[0.741s] byte-compiling /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/lib/python3.10/site-packages/substitutions_py/__init__.py to __init__.cpython-310.pyc
+[0.741s] running install_data
+[0.741s] creating /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/share/ament_index
+[0.741s] creating /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/share/ament_index/resource_index
+[0.741s] creating /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/share/ament_index/resource_index/packages
+[0.742s] copying resource/substitutions_py -> /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/share/ament_index/resource_index/packages
+[0.742s] copying package.xml -> /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/share/substitutions_py
+[0.742s] creating /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/share/substitutions_py/launch
+[0.742s] copying launch/substitutions_launch.py -> /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/share/substitutions_py/launch
+[0.742s] copying launch/main_launch.py -> /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/share/substitutions_py/launch
+[0.742s] running install_egg_info
+[0.743s] Copying ../../build/substitutions_py/substitutions_py.egg-info to /home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/lib/python3.10/site-packages/substitutions_py-0.0.0-py3.10.egg-info
+[0.743s] running install_scripts
+[0.759s] writing list of installed files to '/home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/install.log'
+[0.775s] Invoked command in '/home/misys/robotics_lecture/launch/launch_ws/src/substitutions_py' returned '0': PYTHONPATH=/home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/robotics_lecture/launch/launch_ws/install/substitutions_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/substitutions_py build --build-base /home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/build install --record /home/misys/robotics_lecture/launch/launch_ws/build/substitutions_py/install.log --single-version-externally-managed install_data

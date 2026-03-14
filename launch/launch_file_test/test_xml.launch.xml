@@ -1,0 +1,18 @@
+<launch>
+
+    <!--Launch arguments-->
+    <arg name="turtlesim_ns" default="turtlesim1"/>  <!--namespace, default=turtlesim1--> 
+    <arg name="background_r" default="200"/>
+
+    <!--Turtlesim node-->
+    <node
+        pkg="turtlesim"
+        exec="turtlesim_node"
+        namespace="$(var turtlesim_ns)"
+        name="sim">
+
+        <param name="background_r" value="$(var background_r)"/>
+
+    </node>
+
+</launch>
