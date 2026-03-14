@@ -8,6 +8,7 @@ setup.py
 ../../build/substitutions_py/substitutions_py.egg-info/requires.txt
 ../../build/substitutions_py/substitutions_py.egg-info/top_level.txt
 ../../build/substitutions_py/substitutions_py.egg-info/zip-safe
+launch/event_handlers_launch.py
 launch/main_launch.py
 launch/substitutions_launch.py
 resource/substitutions_py
