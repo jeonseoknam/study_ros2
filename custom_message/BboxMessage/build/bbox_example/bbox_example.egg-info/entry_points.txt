@@ -1,4 +1,0 @@
-[console_scripts]
-bbox_pub = bbox_example.bbox_pub:main
-bbox_sub = bbox_example.bbox_sub:main
-
