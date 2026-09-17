@@ -12,4 +12,4 @@
 
 
 **pubsub**
-- ROS2의 publisher / subscriber 및 custom interface(msg, srv) 기본 예제 (cpp_pubsub, tutorial_interfaces, more_interfaces)
+- ROS2 Humble 공식 튜토리얼의 publisher / subscriber 및 custom interface(msg, srv) 기본 예제 (cpp_pubsub, tutorial_interfaces, more_interfaces)
