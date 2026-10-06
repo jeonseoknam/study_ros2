@@ -1,0 +1,6 @@
+{
+  "package_name": "rviz_plugin_tutorial_msgs",
+  "non_idl_tuples": [
+    "/home/misys/ros2_ws/src/point_display/rviz_plugin_tutorial/rviz_plugin_tutorial_msgs:msg/Point2D.msg"
+  ]
+}

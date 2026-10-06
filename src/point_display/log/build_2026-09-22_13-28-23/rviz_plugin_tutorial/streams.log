@@ -1,0 +1,122 @@
+[0.011s] Invoking command in '/home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial': AMENT_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:/home/misys/ros2_ws/install/cpp_pubsub:/home/misys/ros2_ws/install/tutorial_interfaces:/home/misys/ros2_ws/install/more_interfaces:/home/misys/ros2_ws/install/morai_ros2_msgs:/home/misys/ros2_ws/install/cpp_parameters:/opt/ros/humble LD_LIBRARY_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/lib:/home/misys/ros2_ws/install/tutorial_interfaces/lib:/home/misys/ros2_ws/install/more_interfaces/lib:/home/misys/ros2_ws/install/morai_ros2_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/misys/ros2_ws/src/point_display/rviz_plugin_tutorial/rviz_plugin_tutorial -DCMAKE_INSTALL_PREFIX=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial
+[0.073s] -- The C compiler identification is GNU 11.4.0
+[0.134s] -- The CXX compiler identification is GNU 11.4.0
+[0.143s] -- Detecting C compiler ABI info
+[0.220s] -- Detecting C compiler ABI info - done
+[0.228s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.228s] -- Detecting C compile features
+[0.228s] -- Detecting C compile features - done
+[0.230s] -- Detecting CXX compiler ABI info
+[0.310s] -- Detecting CXX compiler ABI info - done
+[0.315s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.315s] -- Detecting CXX compile features
+[0.315s] -- Detecting CXX compile features - done
+[0.338s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.463s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.527s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.540s] -- Found pluginlib: 5.1.0 (/opt/ros/humble/share/pluginlib/cmake)
+[0.566s] -- Found rviz_common: 11.2.13 (/opt/ros/humble/share/rviz_common/cmake)
+[0.570s] -- Setting assimp_DIR to: '/opt/ros/humble/share/rviz_assimp_vendor/cmake/../../../opt/rviz_assimp_vendor/lib/cmake/assimp-4.1'
+[0.575s] -- Setting OGRE_DIR to: '/opt/ros/humble/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[0.576s] -- Found OGRE
+[0.577s] --   static     : OFF
+[0.577s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[0.577s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[0.577s] --   media      : /opt/ros/humble/opt/rviz_ogre_vendor/share/OGRE/Media
+[0.577s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[0.577s] -- OGRE_LIBRARY_DIRS: /opt/ros/humble/opt/rviz_ogre_vendor/lib
+[0.577s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[0.577s] -- OGRE_PLUGIN_DIR: /opt/ros/humble/opt/rviz_ogre_vendor/lib/OGRE
+[0.577s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[0.577s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[0.577s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[0.577s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[0.580s] -- Could not find freeimage library
+[0.592s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11") 
+[0.596s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+[0.683s] -- Found X11: /usr/include   
+[0.683s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[0.773s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[0.773s] -- Looking for gethostbyname
+[0.848s] -- Looking for gethostbyname - found
+[0.848s] -- Looking for connect
+[0.916s] -- Looking for connect - found
+[0.917s] -- Looking for remove
+[0.996s] -- Looking for remove - found
+[0.996s] -- Looking for shmat
+[1.075s] -- Looking for shmat - found
+[1.075s] -- Looking for IceConnectionNumber in ICE
+[1.158s] -- Looking for IceConnectionNumber in ICE - found
+[1.255s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[1.283s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.287s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.292s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.300s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.309s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.360s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.362s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[1.376s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[1.382s] -- Looking for pthread.h
+[1.459s] -- Looking for pthread.h - found
+[1.459s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.543s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.544s] -- Found Threads: TRUE  
+[1.598s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.598s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.677s] -- Found rviz_plugin_tutorial_msgs: 0.0.0 (/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/share/rviz_plugin_tutorial_msgs/cmake)
+[1.687s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.764s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.765s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.765s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/misys/ros2_ws/src/point_display/rviz_plugin_tutorial/rviz_plugin_tutorial/include>
+[1.765s] -- Configured cppcheck exclude dirs and/or files: 
+[1.766s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.766s] -- Configured cpplint exclude dirs and/or files: 
+[1.766s] -- Added test 'lint_cmake' to check CMake code style
+[1.767s] -- Added test 'uncrustify' to check C / C++ code style
+[1.767s] -- Configured uncrustify additional arguments: 
+[1.767s] -- Added test 'xmllint' to check XML markup files
+[1.768s] -- Configuring done
+[1.799s] -- Generating done
+[1.801s] -- Build files have been written to: /home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial
+[1.808s] Invoked command in '/home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial' returned '0': AMENT_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:/home/misys/ros2_ws/install/cpp_pubsub:/home/misys/ros2_ws/install/tutorial_interfaces:/home/misys/ros2_ws/install/more_interfaces:/home/misys/ros2_ws/install/morai_ros2_msgs:/home/misys/ros2_ws/install/cpp_parameters:/opt/ros/humble LD_LIBRARY_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/lib:/home/misys/ros2_ws/install/tutorial_interfaces/lib:/home/misys/ros2_ws/install/more_interfaces/lib:/home/misys/ros2_ws/install/morai_ros2_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/misys/ros2_ws/src/point_display/rviz_plugin_tutorial/rviz_plugin_tutorial -DCMAKE_INSTALL_PREFIX=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial
+[1.810s] Invoking command in '/home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial': AMENT_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:/home/misys/ros2_ws/install/cpp_pubsub:/home/misys/ros2_ws/install/tutorial_interfaces:/home/misys/ros2_ws/install/more_interfaces:/home/misys/ros2_ws/install/morai_ros2_msgs:/home/misys/ros2_ws/install/cpp_parameters:/opt/ros/humble LD_LIBRARY_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/lib:/home/misys/ros2_ws/install/tutorial_interfaces/lib:/home/misys/ros2_ws/install/more_interfaces/lib:/home/misys/ros2_ws/install/morai_ros2_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial -- -j32 -l32
+[1.865s] [ 16%] [34m[1mAutomatic MOC for target point_display[0m
+[1.907s] [ 16%] Built target point_display_autogen
+[1.921s] [ 33%] [34m[1mGenerating include/rviz_plugin_tutorial/moc_point_display.cpp[0m
+[1.946s] [ 50%] [32mBuilding CXX object CMakeFiles/point_display.dir/src/point_display.cpp.o[0m
+[1.947s] [ 66%] [32mBuilding CXX object CMakeFiles/point_display.dir/include/rviz_plugin_tutorial/moc_point_display.cpp.o[0m
+[1.948s] [ 83%] [32mBuilding CXX object CMakeFiles/point_display.dir/point_display_autogen/mocs_compilation.cpp.o[0m
+[8.795s] [100%] [32m[1mLinking CXX shared library libpoint_display.so[0m
+[9.509s] [100%] Built target point_display
+[9.520s] Invoked command in '/home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial' returned '0': AMENT_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:/home/misys/ros2_ws/install/cpp_pubsub:/home/misys/ros2_ws/install/tutorial_interfaces:/home/misys/ros2_ws/install/more_interfaces:/home/misys/ros2_ws/install/morai_ros2_msgs:/home/misys/ros2_ws/install/cpp_parameters:/opt/ros/humble LD_LIBRARY_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/lib:/home/misys/ros2_ws/install/tutorial_interfaces/lib:/home/misys/ros2_ws/install/more_interfaces/lib:/home/misys/ros2_ws/install/morai_ros2_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial -- -j32 -l32
+[9.564s] Invoking command in '/home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial': AMENT_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:/home/misys/ros2_ws/install/cpp_pubsub:/home/misys/ros2_ws/install/tutorial_interfaces:/home/misys/ros2_ws/install/more_interfaces:/home/misys/ros2_ws/install/morai_ros2_msgs:/home/misys/ros2_ws/install/cpp_parameters:/opt/ros/humble LD_LIBRARY_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/lib:/home/misys/ros2_ws/install/tutorial_interfaces/lib:/home/misys/ros2_ws/install/more_interfaces/lib:/home/misys/ros2_ws/install/morai_ros2_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial
+[9.571s] -- Install configuration: ""
+[9.572s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/lib/libpoint_display.so
+[9.577s] -- Set runtime path of "/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/lib/libpoint_display.so" to ""
+[9.577s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/include
+[9.577s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/include/rviz_plugin_tutorial
+[9.577s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/include/rviz_plugin_tutorial/point_display.hpp
+[9.577s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/rviz_common_plugins.xml
+[9.577s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/icons/classes/Point2D.png
+[9.578s] -- Up-to-date: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/rviz_common_plugins.xml
+[9.578s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/ament_index/resource_index/package_run_dependencies/rviz_plugin_tutorial
+[9.578s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/ament_index/resource_index/parent_prefix_path/rviz_plugin_tutorial
+[9.578s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/environment/ament_prefix_path.sh
+[9.578s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/environment/ament_prefix_path.dsv
+[9.578s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/environment/path.sh
+[9.578s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/environment/path.dsv
+[9.578s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/local_setup.bash
+[9.578s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/local_setup.sh
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/local_setup.zsh
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/local_setup.dsv
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/package.dsv
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/ament_index/resource_index/packages/rviz_plugin_tutorial
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/ament_index/resource_index/rviz_common__pluginlib__plugin/rviz_plugin_tutorial
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/cmake/export_rviz_plugin_tutorialExport.cmake
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/cmake/export_rviz_plugin_tutorialExport-noconfig.cmake
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/cmake/ament_cmake_export_include_directories-extras.cmake
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/cmake/ament_cmake_export_targets-extras.cmake
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/cmake/rviz_plugin_tutorialConfig.cmake
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/cmake/rviz_plugin_tutorialConfig-version.cmake
+[9.579s] -- Installing: /home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial/share/rviz_plugin_tutorial/package.xml
+[9.582s] Invoked command in '/home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial' returned '0': AMENT_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs:/home/misys/ros2_ws/install/cpp_pubsub:/home/misys/ros2_ws/install/tutorial_interfaces:/home/misys/ros2_ws/install/more_interfaces:/home/misys/ros2_ws/install/morai_ros2_msgs:/home/misys/ros2_ws/install/cpp_parameters:/opt/ros/humble LD_LIBRARY_PATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/lib:/home/misys/ros2_ws/install/tutorial_interfaces/lib:/home/misys/ros2_ws/install/more_interfaces/lib:/home/misys/ros2_ws/install/morai_ros2_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/misys/ros2_ws/src/point_display/install/rviz_plugin_tutorial_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/misys/ros2_ws/src/point_display/build/rviz_plugin_tutorial

@@ -1,0 +1,29 @@
+[0.007s] Invoking command in '/home/misys/ros2_ws/src/bag_recorder_nodes/build/bag_recorder_nodes': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/misys/ros2_ws/src/bag_recorder_nodes -DCMAKE_INSTALL_PREFIX=/home/misys/ros2_ws/src/bag_recorder_nodes/install/bag_recorder_nodes
+[0.017s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.127s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[0.145s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.147s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.150s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.156s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.164s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.193s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.209s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.210s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[0.221s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.251s] -- Found rosbag2_cpp: 0.15.12 (/opt/ros/humble/share/rosbag2_cpp/cmake)
+[0.341s] -- Configuring done
+[0.342s] [31mCMake Error at CMakeLists.txt:15 (add_executable):
+[0.342s]   Cannot find source file:
+[0.342s] 
+[0.342s]     src/simple_bag_recorder.cpp
+[0.342s] 
+[0.342s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[0.343s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[0.343s] 
+[0.343s] [0m
+[0.343s] [31mCMake Error at CMakeLists.txt:15 (add_executable):
+[0.343s]   No SOURCES given to target: simple_bag_recorder
+[0.343s] 
+[0.343s] [0m
+[0.343s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[0.347s] Invoked command in '/home/misys/ros2_ws/src/bag_recorder_nodes/build/bag_recorder_nodes' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/misys/ros2_ws/src/bag_recorder_nodes -DCMAKE_INSTALL_PREFIX=/home/misys/ros2_ws/src/bag_recorder_nodes/install/bag_recorder_nodes

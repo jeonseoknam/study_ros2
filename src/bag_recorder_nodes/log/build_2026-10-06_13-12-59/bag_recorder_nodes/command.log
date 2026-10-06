@@ -1,0 +1,2 @@
+Invoking command in '/home/misys/ros2_ws/src/bag_recorder_nodes/build/bag_recorder_nodes': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/misys/ros2_ws/src/bag_recorder_nodes -DCMAKE_INSTALL_PREFIX=/home/misys/ros2_ws/src/bag_recorder_nodes/install/bag_recorder_nodes
+Invoked command in '/home/misys/ros2_ws/src/bag_recorder_nodes/build/bag_recorder_nodes' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/misys/ros2_ws/src/bag_recorder_nodes -DCMAKE_INSTALL_PREFIX=/home/misys/ros2_ws/src/bag_recorder_nodes/install/bag_recorder_nodes
