@@ -1,0 +1,7 @@
+build
+install
+log
+.db3
+metadata.yaml
+bags/
+.vscode/
